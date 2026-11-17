@@ -4,7 +4,7 @@
 
 - 🏠 Built a voice-controlled **smart house** on STM32, driven by an LLM workflow
 - 🎮 Built **RPS Arena**, a multiplayer game over raw TCP/UDP with desktop and web clients
-- 🔐 Secured a JavaFX + MySQL hotel management app (BCrypt, 2FA, SQL-injection protection, brute-force lockout)
+- 🔐 **Cybersecurity intern @ Network Associates (Summer 2025):** secured a JavaFX + MySQL hotel management app (BCrypt, e-mail 2FA, SQL-injection protection, brute-force lockout)
 - 🌱 Currently learning: data structures & algorithms, Linux, and AI
 - 💬 Ask me about: Java, Python, web development, app security
 
@@ -36,6 +36,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-D71920?style=flat&logo=dassaultsystemes&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
@@ -64,11 +65,11 @@
 | [**RPS Arena**](https://github.com/amiiinoooo/RPS_arena) | Multiplayer rock-paper-scissors over TCP/UDP with desktop & web clients, network monitor and secure auth | Python · Sockets · Flask · Tkinter |
 | [**Wi-Fi Signal Mapper**](https://github.com/amiiinoooo/wifi-signal-mapper) | ESP32 device on a custom Altium PCB that maps indoor Wi-Fi strength into a heatmap | ESP32 · Altium · Flask · Tkinter |
 | [**Customer Segmentation & Demand Prediction**](https://github.com/amiiinoooo/customer-segmentation-demand-prediction) | RFM + K-Means customer segments and demand classification (Random Forest, 94.8 % accuracy) | Python · scikit-learn · pandas |
-| [**HospitalManagement**](https://github.com/amiiinoooo/HospitalManagement) | Hotel management desktop app. I led its security hardening: BCrypt, e-mail 2FA, input sanitization, staff approval and brute-force lockout | Java · JavaFX · MySQL |
-| [**EcoSort**](https://github.com/amiiinoooo/ecosort) | Smart waste-sorting bin with sensors, servo flaps and a live Flask dashboard | Raspberry Pi · Python · Flask · MySQL |
+| [**HospitalManagement**](https://github.com/amiiinoooo/HospitalManagement) | 💼 Cybersecurity internship @ Network Associates: secured a hotel management app with BCrypt, e-mail 2FA, input sanitization, staff approval and brute-force lockout | Java · JavaFX · MySQL |
+| [**EcoSort**](https://github.com/amiiinoooo/ecosort) | Smart waste-sorting bin with sensors, servo flaps and a live Flask dashboard | Raspberry Pi · Python · Flask · MySQL · SolidWorks |
 | [**CareApp**](https://github.com/amiiinoooo/CareApp) | Installable hydration reminder web app with push notifications, streaks and real-time sync · [live demo](https://amiiinoooo.github.io/CareApp/test.html) | JavaScript · Firebase · Cloudflare Workers |
 | [**Carnet**](https://github.com/amiiinoooo/carnet) | Startup concept for a car-management app: market study, feasibility screening and pitch | Business · Design Thinking |
-| [**Smart Plug**](https://github.com/amiiinoooo/smart-plug) | Energy-monitoring smart plug project proposal | IoT |
+| [**PlugJuice**](https://github.com/amiiinoooo/smart-plug) | IoT smart plug: real-time energy monitoring, spike protection, remote control and a consumption dashboard | IoT · JavaScript · Python · SolidWorks |
 | [**Student Grades Manager**](https://github.com/amiiinoooo/student-grades-manager) | CLI student grades manager with hand-written insertion, selection & bubble sort | Java |
 
 ---
