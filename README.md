@@ -9,7 +9,7 @@
 - 💬 Ask me about: Java, Python, web development, app security
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amiiinoooo.github.io-2ECC71?style=flat&logo=googlechrome&logoColor=white)](https://amiiinoooo.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amine%20Ben%20Nasrallah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-ben-nasrallah-921783338/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amine%20Ben%20Nasrallah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-ben-nasrallah/)
 
 ---
 
