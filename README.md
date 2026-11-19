@@ -71,7 +71,6 @@
 | [**CareApp**](https://github.com/amiiinoooo/CareApp) | Installable hydration reminder web app with push notifications, streaks and real-time sync · [live demo](https://amiiinoooo.github.io/CareApp/test.html) | JavaScript · Firebase · Cloudflare Workers |
 | [**Carnet**](https://github.com/amiiinoooo/carnet) | Startup concept for a car-management app: market study, feasibility screening and pitch | Business · Design Thinking |
 | [**PlugJuice**](https://github.com/amiiinoooo/smart-plug) | IoT smart plug: real-time energy monitoring, spike protection, remote control and a consumption dashboard | IoT · JavaScript · Python · SolidWorks |
-| [**Student Grades Manager**](https://github.com/amiiinoooo/student-grades-manager) | CLI student grades manager with hand-written insertion, selection & bubble sort | Java |
 
 ---
 
