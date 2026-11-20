@@ -2,18 +2,18 @@
 
 **Computer Systems Engineering student @ MedTech – South Mediterranean University** in Tunis 🇹🇳. I build **embedded systems, networked apps, web apps and secure back-ends**, and I'm interested in **AI and data visualization**.
 
-- 🏠 Built a voice-controlled **smart house** on STM32, driven by an LLM workflow
-- 🎮 Built **RPS Arena**, a multiplayer game over raw TCP/UDP with desktop and web clients
-- 🔐 **Cybersecurity Internship @ Network Associates (Summer 2025):** secured a JavaFX + MySQL hotel management app (BCrypt, e-mail 2FA, SQL-injection protection, brute-force lockout)
-- 🌱 Currently learning: data structures & algorithms, Linux, and AI
-- 💬 Ask me about: Java, Python, web development, app security
+- Built a voice-controlled **smart house** on STM32, driven by an LLM workflow
+- Built **RPS Arena**, a multiplayer game over raw TCP/UDP with desktop and web clients
+- **Cybersecurity Internship @ Network Associates (Summer 2025):** secured a JavaFX + MySQL hotel management app (BCrypt, e-mail 2FA, SQL-injection protection, brute-force lockout)
+- Currently learning: data structures & algorithms, Linux, and AI
+- Ask me about: Java, Python, web development, app security
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amiiinoooo.github.io-2ECC71?style=flat&logo=googlechrome&logoColor=white)](https://amiiinoooo.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amine%20Ben%20Nasrallah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-ben-nasrallah/)
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -58,7 +58,7 @@
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -74,7 +74,7 @@
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certificate | Issuer | Date |
 |---|---|---|
@@ -96,7 +96,7 @@
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 ![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiiinoooo&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiiinoooo&layout=compact&hide_border=true)
