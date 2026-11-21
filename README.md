@@ -1,10 +1,10 @@
 # Hi, I'm Amine Ben Nasrallah 👋
 
-**Computer Systems Engineering student @ MedTech – South Mediterranean University** in Tunis 🇹🇳. I build **embedded systems, networked apps, web apps and secure back-ends**, and I'm interested in **AI and data visualization**.
+Computer Systems Engineering student at MedTech (South Mediterranean University) in Tunis 🇹🇳. I build embedded systems, networked apps, web apps and secure back-ends, and I'm interested in AI and data visualization.
 
-- Built a voice-controlled **smart house** on STM32, driven by an LLM workflow
-- Built **RPS Arena**, a multiplayer game over raw TCP/UDP with desktop and web clients
-- **Cybersecurity Internship @ Network Associates (Summer 2025):** secured a JavaFX + MySQL hotel management app (BCrypt, e-mail 2FA, SQL-injection protection, brute-force lockout)
+- Built a voice-controlled smart house on STM32, driven by an LLM workflow
+- Built RPS Arena, a multiplayer game over raw TCP/UDP with desktop and web clients
+- Secured a JavaFX + MySQL hotel management app during my cybersecurity internship at Network Associates (summer 2025): BCrypt, e-mail 2FA, SQL-injection protection, brute-force lockout
 - Currently learning: data structures & algorithms, Linux, and AI
 - Ask me about: Java, Python, web development, app security
 
@@ -62,11 +62,11 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**SmartHouse (STM32)**](https://github.com/amiiinoooo/smart-house-stm32) | Voice-controlled home automation: mobile app → n8n + local LLM → STM32 HTTP server controlling the door, window, light and fan | C · STM32 · ESP8266 · n8n · Ollama |
+| [**SmartHouse (STM32)**](https://github.com/amiiinoooo/smart-house-stm32) | Voice-controlled home automation: a mobile app sends commands through n8n and a local LLM to an STM32 HTTP server that controls the door, window, light and fan | C · STM32 · ESP8266 · n8n · Ollama |
 | [**RPS Arena**](https://github.com/amiiinoooo/RPS_arena) | Multiplayer rock-paper-scissors over TCP/UDP with desktop & web clients, network monitor and secure auth | Python · Sockets · Flask · Tkinter |
 | [**Wi-Fi Signal Mapper**](https://github.com/amiiinoooo/wifi-signal-mapper) | ESP32 device on a custom Altium PCB that maps indoor Wi-Fi strength into a heatmap | ESP32 · Altium · Flask · Tkinter |
 | [**Customer Segmentation & Demand Prediction**](https://github.com/amiiinoooo/customer-segmentation-demand-prediction) | RFM + K-Means customer segments and demand classification (Random Forest, 94.8 % accuracy) | Python · scikit-learn · pandas |
-| [**HospitalManagement**](https://github.com/amiiinoooo/HospitalManagement) | 💼 Cybersecurity Internship @ Network Associates: secured a hotel management app with BCrypt, e-mail 2FA, input sanitization, staff approval and brute-force lockout | Java · JavaFX · MySQL |
+| [**HospitalManagement**](https://github.com/amiiinoooo/HospitalManagement) | Cybersecurity internship at Network Associates: secured a hotel management app with BCrypt, e-mail 2FA, input sanitization, staff approval and brute-force lockout | Java · JavaFX · MySQL |
 | [**EcoSort**](https://github.com/amiiinoooo/ecosort) | Smart waste-sorting bin with sensors, servo flaps and a live Flask dashboard | Raspberry Pi · Python · Flask · MySQL · SolidWorks |
 | [**CareApp**](https://github.com/amiiinoooo/CareApp) | Installable hydration reminder web app with push notifications, streaks and real-time sync · [live demo](https://amiiinoooo.github.io/CareApp/test.html) | JavaScript · Firebase · Cloudflare Workers |
 | [**Carnet**](https://github.com/amiiinoooo/carnet) | Startup concept for a car-management app: market study, feasibility screening and pitch | Business · Design Thinking |
